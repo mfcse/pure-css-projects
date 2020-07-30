@@ -45,6 +45,7 @@
   }
   .about-left, .about-right{
     flex-basis: 100%;
+    margin: 0 20px;
   }
   .about-content li{
     padding: 5px;
@@ -79,8 +80,11 @@
   .msg-area{
     order: 1;
   }
-
-  
+  /*footer*/
+  .r-footer > *{
+    flex: 1 50%;
+    margin-right: 1.25em;
+  }
 }
 
 /*image slider*/
