@@ -355,7 +355,7 @@ ul.contact-content{
   min-width: 18em;
   /* background: transparent; */
   background: aliceblue;
-  color: #fff;
+  /* color: #fff; */
   padding: 15px;
 }
 .details-area{
@@ -367,7 +367,7 @@ ul.contact-content{
   width: 100%;
   /* background: transparent; */
   background: aliceblue;
-  color: #fff;
+  /* color: #fff; */
   border-radius: 40px;
 }
 .details-area input,
